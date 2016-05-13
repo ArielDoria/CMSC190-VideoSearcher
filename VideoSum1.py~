@@ -65,7 +65,7 @@ def summarize(path, start, frameCount, framespersecond, newFolder): #Collect 'si
 	print "Summarization partly done."
 
 
-def showvideo(path, pb=None, per_step=0, THREAD_COUNT=4): #Creates images in VideoSummarization folder
+def showvideo(path, pb=None, per_step=0, THREAD_COUNT=2): #Creates images in VideoSummarization folder
 	frame_counter=0
 	cap = cv2.VideoCapture(path)
 	framespersecond = cap.get(cv2.CAP_PROP_FPS)
