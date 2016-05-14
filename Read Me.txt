@@ -1,0 +1,12 @@
+Before running the program, Install the following libraris in your Ubuntu OS Computer
+1. Opencv 3.1
+2. Python
+3. tkinter module for python
+4. matplotlib library for python
+
+
+To run the Program
+1. just type the following commands in your terminal:
+    $  python VideoSearcher.py
+2. The application will ask you to find the directory and that's good. You can
+    now try the VideoSearcher.
