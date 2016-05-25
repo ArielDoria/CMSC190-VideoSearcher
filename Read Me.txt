@@ -1,7 +1,7 @@
-Before running the program, Install the following libraris in your Ubuntu OS Computer
+Before running the program, Install the following librarys in your Ubuntu OS Computer
 1. Opencv 3.1
 2. Python
-3. tkinter module for python
+3. Tkinter module for python
 4. matplotlib library for python
 
 
